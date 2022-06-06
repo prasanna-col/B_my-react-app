@@ -3,3 +3,4 @@ In test file,
 "it" - used to check the component (DOM).
 "describe" - used to check the functionality inside the component. 
 
+test update in new branch
